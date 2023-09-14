@@ -1,16 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
+<div align="center">
+  <img src="ProgrammingPIC.png" alt="Your Name" width="400" height="300"/>
+</div>
 
-<!--
-**StepSisStuck/StepSisStuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Passionate Programmer & Tech Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/stanly-lau">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/StepSisStuck">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I'm currently studying DCITP at Singapore Polytechnic.
+- 💼 I'm a workaholic, and I like coffee.
+- 📚 I love learning new technologies and building cool projects like my Homelab.
+
+## 💻 Technologies I Love
+
+- JavaScript, Markdown
+- HTML, CSS, Node.js
+- Nessus Tenable, Photoshop, Lightroom
+- Git, GitHub
+
+## 🌟 My Projects
+
+- [Project 1](https://stepsisstuck.github.io/CA1-FED-SP-Y1/): HTML and CSS project.
+- [Project 2](https://stepsisstuck.github.io/CA2-FED-SP-Y1/): HTML, CSS, Bootstrap, and JavaScript project.
+
+## 🌍 Fun Facts
+
+- 🐶 I love playing with my dog in my free time.
+<div align="center">
+  <img src="IMG_7922.JPG" alt="Nature 1" width="300" style="border-radius: 15px; margin: 10px;">
+</div>
+- 🌍 I love taking photos of nature and editing them!
+Here are some pictures! 
+<div align="center">
+  <img src="Nature_Pulu.jpg" alt="Nature 1" width="300" style="border-radius: 15px; margin: 10px;">
+  <img src="Nature_Pulu.jpg" alt="Nature 2" width="300" style="border-radius: 15px; margin: 10px;">
+  <img src="Buildings_Japan.jpg" alt="Buildings in Japan" width="300" style="border-radius: 15px; margin: 10px;">
+</div>
+
+- ☕ Love late-night coding sessions with tea. :D
+
+
