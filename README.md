@@ -3,7 +3,7 @@
   <img src="ProgrammingPIC.png" alt="Your Name" width="400" height="300"/>
 </div>
 
-<h3 align="center">Passionate Programmer & Tech Enthusiast</h3>
+<h3 align="center">Tech Enthusiast | Loads of Fun</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stanly-lau">
@@ -26,6 +26,8 @@
 - HTML, CSS, Node.js
 - Nessus Tenable, Photoshop, Lightroom
 - Git, GitHub
+- VMware Workstation Pro, VirtualBox
+- Microsoft End Point Manager, Microsoft Intune, Microsoft Azure, Microsoft 365
 
 ## 🌟 My Projects
 
