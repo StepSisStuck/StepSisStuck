@@ -51,3 +51,5 @@ Here are some pictures!
 - ☕ Love late-night coding sessions with tea. :D
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepSisStuck&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
