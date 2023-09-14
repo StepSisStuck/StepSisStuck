@@ -36,7 +36,7 @@
 
 - 🐶 I love playing with my dog in my free time.
 <div align="center">
-  <img src="IMG_7922.JPG" alt="Nature 1" width="300" style="border-radius: 15px; margin: 10px;">
+  <img src="IMG_7922.jpg" alt="Nature 1" width="300" style="border-radius: 15px; margin: 10px;">
 </div>
 - 🌍 I love taking photos of nature and editing them!
 Here are some pictures! 
