@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <div align="center">
-  <img src="ProgrammingPIC.png" alt="Your Name" width="400" height="300"/>
+  <img src="ProgrammingPIC.png" alt="Your Name" width="300" height="300"/>
 </div>
 
 <h3 align="center">Tech Enthusiast | Loads of Fun</h3>
