@@ -20,14 +20,41 @@
 - 💼 I'm a workaholic, and I like coffee.
 - 📚 I love learning new technologies and building cool projects like my Homelab.
 
+## Technologies and Tools I use:
+<p align="left">
+    <!-- JavaScript -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <!-- NodeJS-->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="PS" width="40" height="40"/>
+      <!-- HTML -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+    <!-- CSS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+    <!-- Bootstrap -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  alt="BS" width="40" height="40"/>
+    <!-- Node.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <!-- Photoshop -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="PS" width="40" height="40"/>
+    <!-- Git -->
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <!-- GitHub -->
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+    <!-- VMware Workstation Pro -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="VMware Workstation Pro" width="40" height="40"/> 
+    <!-- VirtualBox -->
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
+    <!-- Microsoft End Point Manager -->
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft End Point Manager" width="40" height="40"/>
+</p>
+
 ## 💻 Technologies I Love
 
-- JavaScript, Markdown
-- HTML, CSS, Node.js
-- Nessus Tenable, Photoshop, Lightroom
+- Nessus Tenable, Lightroom
 - Git, GitHub
-- VMware Workstation Pro, VirtualBox
+- VMware Workstation Pro
 - Microsoft End Point Manager, Microsoft Intune, Microsoft Azure, Microsoft 365
+
 
 ## 🌟 My Projects
 
