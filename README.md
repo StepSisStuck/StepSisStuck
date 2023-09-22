@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently studying DCITP at Singapore Polytechnic.
+- 🌱 I'm currently studying in Diploma in Cybersecurity & Digital Forensics at Singapore Polytechnic.
 - 💼 I'm a workaholic, and I like coffee.
 - 📚 I love learning new technologies and building cool projects like my Homelab.
 
