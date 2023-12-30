@@ -76,7 +76,7 @@ Here are some pictures!
   <img src="Buildings_Japan.jpg" alt="Buildings in Japan" width="300" style="border-radius: 15px; margin: 10px;">
 </div>
 
-- ☕ Love late-night coding sessions with tea. :D
+- ☕ Love late-night research sessions with tea. :D
 
 
 # 📊 Stats 
