@@ -12,7 +12,10 @@
   <a href="https://github.com/StepSisStuck">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+    <a href="https://stepsisstuck.github.io/Stanly"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+
+
 
 ## 🚀 About Me
 
