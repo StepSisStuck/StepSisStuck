@@ -27,8 +27,6 @@
 <p align="left">
     <!-- JavaScript -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <!-- NodeJS-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="PS" width="40" height="40"/>
       <!-- HTML -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
     <!-- CSS -->
@@ -49,6 +47,16 @@
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
     <!-- Microsoft End Point Manager -->
     <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft End Point Manager" width="40" height="40"/>
+    <!-- MYSQL -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="40" height="40"/>
+    <!-- Azure -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/>
+    <!-- Oracle Linux -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Oracle Linux" width="40" height="40"/>
+    <!-- Postman -->
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+
+    
 </p>
 
 ## 💻 Technologies I Love
@@ -59,7 +67,7 @@
 - Microsoft End Point Manager, Microsoft Intune, Microsoft Azure, Microsoft 365
 
 
-## 🌟 My Projects
+## 🌟 My School Projects
 
 - [Project 1](https://stepsisstuck.github.io/CA1-FED-SP-Y1/): HTML and CSS project.
 - [Project 2](https://stepsisstuck.github.io/CA2-FED-SP-Y1/): HTML, CSS, Bootstrap, and JavaScript project.
