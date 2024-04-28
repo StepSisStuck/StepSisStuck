@@ -59,7 +59,7 @@
     
 </p>
 
-## 💻 Technologies I Love
+## 💻 Technologies I Really **LOVE**!!!
 
 - Nessus Tenable, Lightroom
 - Git, GitHub
