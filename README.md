@@ -65,7 +65,7 @@
 - Git, GitHub
 - VMware Workstation Pro
 - Microsoft End Point Manager, Microsoft Intune, Microsoft Azure, Microsoft 365
-<div class="tenor-gif-embed" data-postid="15309591218677484668" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/little-john-galvanized-square-steel-family-gif-15309591218677484668">Little John Galvanized GIF</a>from <a href="https://tenor.com/search/little+john-gifs">Little John GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ## 🌟 My School Projects
 
