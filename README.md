@@ -61,18 +61,11 @@
     
 </p>
 
-## 💻 Technologies I Really **LOVE**!!!
-
-- Nessus Tenable, Lightroom
-- Git, GitHub
-- VMware Workstation Pro
-- Microsoft End Point Manager, Microsoft Intune, Microsoft Azure, Microsoft 365
-
-
 ## 🌟 My School Projects
 
 - [Project 1](https://stepsisstuck.github.io/CA1-FED-SP-Y1/): HTML and CSS project.
 - [Project 2](https://stepsisstuck.github.io/CA2-FED-SP-Y1/): HTML, CSS, Bootstrap, and JavaScript project.
+- And many more in my profile!
 
 ## 🌍 Fun Facts
 
