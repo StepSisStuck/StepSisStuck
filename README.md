@@ -78,7 +78,6 @@
 Here are some pictures! 
 <div align="center">
   <img src="Nature_Pulu.jpg" alt="Nature 1" width="300" style="border-radius: 15px; margin: 10px;">
-  <img src="Nature_Pulu.jpg" alt="Nature 2" width="300" style="border-radius: 15px; margin: 10px;">
   <img src="Buildings_Japan.jpg" alt="Buildings in Japan" width="300" style="border-radius: 15px; margin: 10px;">
 </div>
 
