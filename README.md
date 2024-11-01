@@ -63,10 +63,11 @@
     
 </p>
 
-## 🌟 My School Projects
+## 🌟 Personal and School Projects
 
 - [Project 1](https://stepsisstuck.github.io/CA1-FED-SP-Y1/): HTML and CSS project.
 - [Project 2](https://stepsisstuck.github.io/CA2-FED-SP-Y1/): HTML, CSS, Bootstrap, and JavaScript project.
+- [API-XSS-Attack](https://github.com/StepSisStuck/API-XSS-Attack): API XSS Attack project.
 - And many more in my profile!
 
 ## 🌍 Fun Facts
