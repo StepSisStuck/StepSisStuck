@@ -21,7 +21,7 @@
 
 - 🌱 I'm currently studying in Diploma in Cybersecurity & Digital Forensics (formerly as Diploma in Infocomm Security Management) at Singapore Polytechnic.
 - 💼 I specialize in Cyber Defence Security (CDS)
-- 📚 I love learning new technologies and building cool projects like my Homelab.
+- 📚 I love learning new technologies and building cool projects like my Homelab (using enterprise equipments)
 
 ## Technologies and Tools I use:
 <p align="left">
