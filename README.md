@@ -21,7 +21,8 @@
 
 - 🌱 I'm currently studying in Diploma in Cybersecurity & Digital Forensics (formerly as Diploma in Infocomm Security Management) at Singapore Polytechnic.
 - 💼 I specialize in Cyber Defence Security (CDS)
-- 📚 I love learning new technologies and building cool projects like my Homelab (using enterprise equipments)
+- 📚 I love learning new technologies and building cool projects like my Homelab (using enterprise equipments) 
+- 🖨️ Although we do not have a 3D printer emoji, I am an avid enthusiast of 3D printing, particularly with the Creality Ender 3 Max.
 
 ## Technologies and Tools I use:
 <p align="left">
