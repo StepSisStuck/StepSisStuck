@@ -26,38 +26,75 @@
 
 ## Technologies and Tools I use:
 <p align="left">
-    <!-- JavaScript -->
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <!-- HTML -->
+  </a>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-    <!-- CSS -->
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-    <!-- Bootstrap -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  alt="BS" width="40" height="40"/>
-    <!-- Node.js -->
+  </a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <!-- Photoshop -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="PS" width="40" height="40"/>
-    <!-- Git -->
+  </a>
+  <!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <!-- GitHub -->
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-    <!-- VMware Workstation Pro -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="VMware Workstation Pro" width="40" height="40"/> 
-    <!-- VirtualBox -->
+  </a>
+  <!-- VMware Workstation Pro -->
+  <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="VMware Workstation Pro" width="40" height="40"/>
+  </a>
+  <!-- VirtualBox -->
+  <a href="https://www.virtualbox.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
-    <!-- Microsoft End Point Manager -->
+  </a>
+  <!-- Microsoft End Point Manager -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/endpoint-manager" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft End Point Manager" width="40" height="40"/>
-    <!-- MYSQL -->
+  </a>
+  <!-- MYSQL -->
+  <a href="https://www.mysql.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="40" height="40"/>
-    <!-- Azure -->
+  </a>
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/>
-    <!-- Oracle Linux -->
+  </a>
+  <!-- Oracle Linux -->
+  <a href="https://www.oracle.com/linux" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Oracle Linux" width="40" height="40"/>
-    <!-- Postman -->
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <!-- GitHub Codespaces -->
+  <a href="https://github.com/features/codespaces" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="Github Codespace" width="40" height="40"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+  </a>
+</p>
 
 
 
