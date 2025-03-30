@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
   </a>
   <!-- FlareVM -->
-  <a href="https://github.com/mandiant/flare-vm/tree/main" target="_blank">
+  <a href="https://github.com/mandiant/flare-vm/" target="_blank">
     <img src="https://raw.githubusercontent.com/mandiant/flare-vm/refs/heads/main/Images/flarevm-logo.png" alt="FlareVM" width="40" height="40"/>
   </a>
 </p>
