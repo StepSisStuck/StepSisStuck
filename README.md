@@ -132,6 +132,6 @@ Here are some pictures!
 
 # 📊 Stats 
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepSisStuck&show_icons=true&theme=radical)
-
+[![Stan's GitHub stats](https://github-stats-extended.vercel.app/api?username=StepSisStuck&show_icons=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=StepSisStuck&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepSisStuck&layout=compact)
 ![Stan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StepSisStuck)
